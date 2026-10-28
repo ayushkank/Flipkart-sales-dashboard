@@ -88,7 +88,7 @@ These metrics provide a quick snapshot of overall sales performance.
 - A centralized view of sales performance.
 - A clean, business-oriented interface.
 
-🖼️ 5. Dashboard Screenshot / Demo
+## 🖼️5. Dashboard Screenshot / Demo
 
 # Flipkart Sales Dashboard — FY-2026
 
