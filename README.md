@@ -4,7 +4,7 @@ An interactive sales analytics dashboard designed to analyze Flipkart's sales pe
 
 ## 📌 1. Project Overview
 
-The **Flipkart Sales Dashboard** provides a visual overview of sales performance for FY-2026. It transforms sales data into meaningful insights through KPI cards, charts, and product-level analysis.
+The **Flipkart Sales Dashboard** provides a visual overview of sales performance for FY-2026. It transforms sales data into meaningful insights through Key Performance Indicator (KPI) cards, charts, and product-level analysis.
 
 The dashboard helps users understand revenue distribution, monitor order performance, identify top-selling products, and compare sales across different categories and cities.
 
