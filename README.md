@@ -92,7 +92,7 @@ These metrics provide a quick snapshot of overall sales performance.
 
 # Flipkart Sales Dashboard — FY-2026
 
-![Flipkart Sales Dashboard FY-2026]Flipkart sales dashboard.png
+![Flipkart Sales Dashboard FY-2026] https://github.com/ayushkank/Flipkart-sales-dashboard/blob/c03b99e6a3f9f0cff67debc957a71432a1fd54da/Flipkart%20sales%20dashboard.png
 
 **Dashboard highlights:**
 - Overall revenue and order metrics.
