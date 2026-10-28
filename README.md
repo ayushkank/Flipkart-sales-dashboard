@@ -25,9 +25,6 @@ The dashboard helps users understand revenue distribution, monitor order perform
 | Excel / CSV | Sales data storage and input |
 | Data Visualization | Charts, KPI cards, and interactive reports |
 
-*Note: The technologies listed above describe a typical Power BI implementation. Adjust this section if your dashboard was developed using a different tool or data source.*
-
----
 
 ## 📂 3. Data Source
 
